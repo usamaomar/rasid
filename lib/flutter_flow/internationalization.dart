@@ -124,6 +124,17 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ar': '',
     },
   },
+  // HomePage
+  {
+    'd1oceo6j': {
+      'en': 'Page Title',
+      'ar': '',
+    },
+    '17hig3on': {
+      'en': 'Home',
+      'ar': '',
+    },
+  },
   // Miscellaneous
   {
     'kv0bx0iw': {
