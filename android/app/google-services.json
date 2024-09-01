@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "360177815791",
+    "project_id": "rasid-999fc",
+    "storage_bucket": "rasid-999fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360177815791:android:4921d12f93f1bf25a2cb1a",
+        "android_client_info": {
+          "package_name": "com.chain.rased"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm8nHTXce7msPP2wvckcm7S55Hxi9p6ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
